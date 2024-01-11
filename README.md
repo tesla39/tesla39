@@ -7,7 +7,7 @@ Tech Enthusiast
 * 🌍  I'm based in kathmandu nepal
 * ✉️  You can contact me at [mbk36900@gmail.com](mailto:mbk36900@gmail.com)
 * 🧠  I'm learning Computer engineering
-* 🤝  I'm open to collaborating on Linux
+* 🤝  I'm open to collaborating with Open source projects
 
 <a href="https://www.github.com/tesla39" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tesla39?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/mahesh_bk369" target="_blank" rel="noreferrer"><img
